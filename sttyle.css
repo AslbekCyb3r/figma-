@@ -1,0 +1,785 @@
+.responsiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contener{
+    width: auto;
+    height: 1109px;
+    margin: 10PX 200PX;
+    opacity: 0px;
+    background: #1B3764;
+}
+.shapka{
+    width: 1300px;
+    height: 109px;
+    padding: 20px 0px 20px 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+ 
+}
+.ramka{
+    width: 544.61px;
+    height: 69px;
+    top: 20px;
+    gap: 0px;
+    opacity: 0px;
+    background: #1B3764;
+}
+
+
+.shapkaimg{
+    gap: 100px;
+margin-top: 15px;
+
+}
+.textshapka{
+ 
+    height: 26.41px;
+    top: 7.64px;
+    left: 35.02px;
+    gap: 20px;
+    opacity: 0px;
+    color: #F5F8FC;
+   margin-left: 10px;
+
+}
+.ortagaolish{
+margin-left: 30px;
+}
+.shapkatedxt{
+    color: #F5F8FC;
+    margin-left: 150px;
+    gap: 25px;
+}
+.savat{
+    margin-top: 15px;
+}
+.button{
+    width: 222px;
+    height: 66px;
+    top: 2px;
+    left: 533.39px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFCA42;
+    margin-left: 45px;
+
+}
+.ortagaolish{
+    justify-content: center;
+}
+.navber{
+    width: 1300px;
+    height: 800px;
+    top: 209px;
+    padding: 0px 21px 0px 23.31px;
+    gap: 0px;
+    opacity: 0px;
+    color: #F5F8FC;
+
+
+}
+.navbertext{
+    width: 588.38px;
+    height: 506px;
+    top: 147px;
+    left: 23.31px;
+    gap: 0px;
+    opacity: 0px;
+       
+}
+.button1{
+    width: 222px;
+    height: 66px;
+    top: 12px;
+    left: -0.31px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFCA42;
+}
+.ReadFreeDemo{
+    padding-top: 10px;
+    text-decoration: underline;
+    margin-left: 30px;
+}
+.endofnavber{
+    width: 588.38px;
+    height: 105px;
+    top: 401px;
+    padding: 40px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+   
+}
+.pages{
+    margin-top: -1px;
+    font-family: Cardo;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    margin-left: 10px;
+}
+.pages1{
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: -70px;
+}
+.ofnavber{
+    gap: 100px;
+}
+.navberimg{
+  margin-left: 650px;
+  margin-top: -500px;
+}
+/* shapkaend */
+.shapka2{
+    margin-top: 100px;
+    width: 1300px;
+    height: 604.91px;
+    margin: 10PX 200PX;
+  
+}
+.bookimg{
+    margin-left: 650px;
+    margin-bottom: 10px;
+}
+.shapkatitle{
+    text-align: center;
+}
+.shapka2title{
+    width: 180px;
+    height: 106px;
+    top: 16.55px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: left;
+
+}
+.aylanacha{
+margin-top: 50px;
+}
+.book{
+    margin-top:-5px;
+    margin-left: 10px;
+}   
+
+.button2{
+    width: 206px;
+    height: 66px;
+    top: 171.55px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+/* end */
+.bookimg1{
+    margin-top: -350px;
+    margin-left: 300px;
+  
+}
+.shapka3{
+    
+margin-left: 200px;
+}
+.thedark{
+    width: 236px;
+    height: 39px;
+    top: 16.55px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Cardo;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    letter-spacing: 0.3199999928474426px;
+    text-align: left;
+
+
+}
+.img1{
+    width: 285px;
+    height: 392px;
+    gap: 0px;
+    opacity: 0px;
+   margin-top: 30px;
+}
+.textbook2{
+    margin-left: 20px;
+}
+.contener1{
+    margin-left: 100px;
+}
+/* shapka2end */
+.shapkaheader3{
+    width: 1440px;
+    height: 960px;
+    background: #F5F8FC;
+}
+.shapkaheaderimg{
+    width: 545px;
+    height: 640px;
+    top: 40.09px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 200px;
+
+}
+.text{
+    width: 559px;
+    height: 137px;
+    top: 106.09px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 34.2px;
+    text-align: left;
+    margin: auto;
+    
+
+}
+.bookimg2{
+    width: 50px;
+    height: 3px;
+    top: 70.09px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 70px;
+    margin-left: -150px;
+}
+.webelleve{
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 34.2px;
+    text-align: left;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 34.2px;
+    text-align: left;
+    color: #969AA0;
+
+}
+.books1{
+    margin: auto;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    margin-top: -10px;
+    margin-right: 70px;
+}
+
+.books2{
+    gap: 10px;
+    margin: auto;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    margin-top: -10px;
+    gap: 200px;
+}
+.books3{
+    gap: 10px;
+    margin: auto;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    margin-top: -10px;
+    margin-right: 60px;
+}
+.surish04ni{
+    margin-left: 100px;
+}
+.chiziqortadagi{
+    margin-top: -50px;
+    margin-left: 150px;
+}
+    .chiziqortadag2{
+        margin-top: -50px;
+        margin-left: -50px;
+    }
+    .skanerconteiner{
+        width: 484px;
+        height: 161px;
+        top: -15px;
+        gap: 0px;
+        opacity: 0px;
+        background: #1B3764;
+    
+
+
+    }
+    .skaner{
+
+      margin-top: 15px;
+        width: 130px;
+        height: 130px;
+        margin-left: 20px;
+
+    }
+    .aslbekrang{
+        color: #FFCA42;
+
+
+    }
+    .skanertextortagaolish{
+        color: #B4C7E7;
+        margin: auto;
+    }
+    .skanertextortagaolish:hover{
+        color: yellow;
+        font-size: 18px;
+    }
+    .contener3{
+        margin-left: 200px;
+    }
+/* end */
+.shapka4{
+    margin-top: 250px;
+}
+.bookimg4{
+    margin-left: 700px;
+    margin-bottom: 10px;
+}
+.shapka4{
+    width: 1300px;
+    height: 397px;
+    top: 2984.36px;
+    left: 70px;
+    padding: 20px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+     margin-left: 50px;
+}
+.shapka4img1{
+    width: 313px;
+    height: 254px;
+    padding: 0px 8px 0px 8px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 30px;
+}
+.shapka4imgortaga{
+    
+    margin-left: 75px;
+}
+.AmazenCorp{
+    margin-top: -1px;
+    margin-left: 30px;
+
+}
+.imgtext{
+    width: auto;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: center;
+
+}
+.imgtext1{
+    width: 250px;
+}
+.forminput{
+    width: 656px;
+    height: 70px;
+    margin-left: 100px;
+    
+}
+.shapka4contener{
+    width: 313px;
+    height: 254px;
+    padding: 0px 8px 0px 8px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.shapka4img2{
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: center;
+    width: 370px;
+    height: 300px;
+    padding: 0px 8px 0px 8px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 1100px;
+    margin-top: -250px;
+}
+.shapka5{
+    width: 1440px;
+    height: auto;
+    top: 3511px;
+    gap: 0px;
+    opacity: 0px;
+    background: #1B3764;
+
+
+}
+.shapka5text{
+    width: 610px;
+    height: 284px;
+    top: 55px;
+    padding: 20px 0px 10.36px 0px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 50px;
+    color: #FFFFFF;
+}
+.button5{
+    width: 116px;
+    height: 29px;
+    top: 19px;
+    left: 52px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.button5:hover{
+        color: rgb(26, 26, 15);
+        font-size: 18px;
+        border: 2px solid #FFCA42
+}
+.shapka5textp{
+    width: 539px;
+    height: 57px;
+    top: 103.64px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.shapka6{
+    margin-top: 50px;
+    width: 1300px;
+  
+    top: 4165.36px;
+    left: 70px;
+    padding: 20px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.shapka6text1{
+    text-align: center;
+}
+.shapka6ichkitaraf{
+    top: 183px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 100px;
+    gap: 30px;
+ 
+  
+   
+}
+.shapka6textramka{
+    width: 665.45px;
+    height: auto;
+    padding: 30px 0px 17.72px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.shapka6text0{
+    font-family: Cardo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: left;
+    width: 150px;
+    height: 101px;
+    top: 110px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top:8px ;
+    color: #1B3764;
+
+
+
+}
+.border{
+    gap: 30px;
+    padding-right: -500px;
+    margin-top: 200px;
+    margin-left: -350px;
+  
+
+}
+.shapka7img{
+    width: 555px;
+    height: 450px;
+    margin-left: 100px;
+}
+/* end */
+.shapka8{
+    width: 1440px;
+    height: 760px;
+    top: 5140px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 50px auto;
+    text-align: center;
+    margin-left: 100px;
+    background: #F4F8FF;
+
+}
+
+.shapkatext8{
+    text-align: center;
+}
+.shapka8ichki{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30PX;
+    text-align: left;
+    width: 505px;
+    height: 242px;
+    top: -0.08px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 10PX;
+ 
+}
+.raund{
+    width: 16px;
+    height: 16px;
+    gap: 20px;
+    border-radius: 50%;
+    opacity: 0px;
+    background: #FFCA42;
+
+}
+.shapka8-content{
+    margin-left: 40px;
+    align-items: center;
+    gap: 10px;
+}
+.pastki{
+    margin-right: -1000px;
+    margin-top: -480px;
+    margin-left: 900px;
+}
+.buttonshapka8{
+    width: 429px;
+    height: 76px;
+    top: 59.92px;
+    left: 431px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFCA42;
+    margin-left: 500px;
+
+
+}
+.buttontext{
+    width: 331px;
+    height: 29px;
+    top: 169.92px;
+    left: 485px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 550px;
+    text-align: center;
+}
+.ramka8ota{
+    width: 1300px;
+    height: 634px;
+    top: 6414.08px;
+    left: 70px;
+    padding: 0px 0.02px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+   margin-top: 200px;
+
+}
+.ramkatext{
+    width: 329px;
+    height: 51px;
+    top: -3.58px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Cardo;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 50.4px;
+    text-align: left;
+
+
+}
+.pastkitext{
+    width: 435px;
+    height: 171px;
+    top: 156.42px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 34.2px;
+    text-align: left;
+
+
+}
+.pastkiramka{
+    width: 447.89px;
+    height: 74px;
+    top: 361px;
+    padding: 10px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -50px;
+    margin: auto;
+
+}
+.narx{
+    margin-top: -15px;
+    margin-left: 50px;
+}
+.narxtsxtpastki{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.5px;
+    margin-left: -210px;
+    margin-bottom: -1px;
+
+}
+.shapka9img1{
+    margin-left: 500px;
+}
+.img3{
+    margin-right: 390px;
+}
+.img2{
+    margin-bottom: -130px;
+}
+
+.shapka9img1:hover{
+    background-color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+/* end */
+.shapka10{
+    width: 1440px;
+    height: 825px;
+    top: 7178px;
+    gap: 0px;
+    opacity: 0px;
+
+    margin-top: 100px;
+    background: #F4F8FF;
+
+}
+.shapka10img{
+    width: 1320px;
+    height:auto;
+    top: 163px;
+    left: -10px;
+    padding: 0px 10px 40px 10px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+.shapka10img{
+    width: 420px;
+    height: 622px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+   
+
+    
+}
+.shapka11{
+    width: 1300px;
+    height: 489px;
+    top: 8343px;
+    left: 70px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    background: #FFCA42;
+
+
+}
+.aylana{
+    width: 50px;
+    height: 3px;
+    border: 1px solid black;
+    background: #1B3764;
+   margin: auto;
+
+
+}
+.button11{
+    width: 656px;
+    height: 70px;
+    top: -0.34px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+
+
+}
+.buttonuchun{
+   margin-left: 200px;
+    margin-top: 100px;
+
+}
+.button11_2{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    letter-spacing: 0.18000000715255737px;
+    text-align: center;
+    width: 208px;
+    height: 65px;
+    margin-left: 10px;
+    background: #1B3764;
+   color: #FFFFFF;
+   
+
+}
+.theend{
+    margin-top: 100px;
+}
+.malumaot{
+    justify-content: space-between;
+}
